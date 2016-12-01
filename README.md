@@ -18,4 +18,4 @@
   gif图片
 ---------  
 	使用[Licecap](http://www.cockos.com/licecap/)进行屏幕的录制。
-![gif图片][yibai_gif.gif]
+![gif图片](yibai_gif.gif)
