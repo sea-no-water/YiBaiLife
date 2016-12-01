@@ -20,43 +20,43 @@ gif图片
  
 使用[Licecap](http://www.cockos.com/licecap/)进行屏幕的录制。
 
-![gif图片](yibai_gif.gif)
+![gif图片](yibai_gif.gif “GIF图片”)
 
 ========
 
-密码
+密码界面
 --------
 
    密码界面随机产生四个数字作为密码，然后点击下面的数字覆盖上面的数字进行解密。
 
-![密码](yibai_mima)
+![密码](yibai_mima.png “密码界面”)
 
 首页
 --------
   
    首页是一个旋转的动画，每点击一个按钮顺时针转动，并跳转至指定页面。
 
-![首页](yibai_souye)
+![首页](yibai_souye.png)
 
-新闻
+新闻界面
 --------
 
-![新闻](yibai_xinwen)
+![新闻](yibai_xinwen.png)
 
-城市
+城市界面
 --------
 
-![城市](yibai_chengshi)
+![城市](yibai_chengshi.png)
 
-天气
+天气界面
 --------
 
    天气界面实现了周一到周日的天气（数据是固定的），同时也实现了白天和晚上的界面切换的功能。
 
-![天气](yibai_tianqi)
+![天气](yibai_tianqi.png)
 
-搜索
+搜索界面
 --------
 
-![搜索](yibai_sousuo)
+![搜索](yibai_sousuo.png)
 
