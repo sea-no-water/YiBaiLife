@@ -7,6 +7,11 @@ YiBaiLife
 ###<div align = center>Author:Haven</div>
 ###<div align = center>E-mail:HavenMailBox@163.com</div> 
 
+<<<<<<< HEAD
+=======
+###                                     Author:Haven
+###                             E-mail:HavenMailBox@163.com
+>>>>>>> dev－first
 
 =======================
 
