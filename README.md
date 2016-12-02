@@ -7,11 +7,7 @@ YiBaiLife
 ###<div align = center>Author:Haven</div>
 ###<div align = center>E-mail:HavenMailBox@163.com</div> 
 
-<<<<<<< HEAD
-=======
-###                                     Author:Haven
-###                             E-mail:HavenMailBox@163.com
->>>>>>> dev－first
+
 
 =======================
 
@@ -32,7 +28,7 @@ gif图片
  
 使用[Licecap](http://www.cockos.com/licecap/)进行屏幕的录制。
 
-![gif图片](yibai_gif.gif “GIF图片”)
+![gif图片](yibai_gif.gif)
 
 ========
 
@@ -41,7 +37,7 @@ gif图片
 
    密码界面随机产生四个数字作为密码，然后点击下面的数字覆盖上面的数字进行解密。
 
-![密码](yibai_mima.png “密码界面”)
+![密码](yibai_mima.png)
 
 首页
 --------
