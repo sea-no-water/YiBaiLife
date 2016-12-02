@@ -4,8 +4,8 @@ YiBaiLife
           这是一个在学习中实践的一个项目。实现了密码，首页，新闻，城市，天气，搜索等功能。数据是固定的，只是为了实现功能。
 
 ****
-###                                          Author:Haven
-###                                  E-mail:HavenMailBox@163.com
+    ###                                          Author:Haven
+    ###                                  E-mail:HavenMailBox@163.com
 
 =======================
 
